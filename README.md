@@ -41,7 +41,7 @@ Construyo aplicaciones web completas de punta a punta: desde el modelado de base
 
 ### 🌐 Portfolio
 
-[**alvarezsolutions.vercel.app**](https://alvarezsolutions.uy/)
+[**alvarezsolutions.uy**](https://alvarezsolutions.uy/)
 
 ---
 
