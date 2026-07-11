@@ -41,14 +41,14 @@ Construyo aplicaciones web completas de punta a punta: desde el modelado de base
 
 ### 🌐 Portfolio
 
-[**alvarezsolutions.vercel.app**](https://alvarezsolutions.vercel.app/)
+[**alvarezsolutions.vercel.app**](https://alvarezsolutions.uy/)
 
 ---
 
 ### 📫 Contacto
 
 - 💼 **Upwork:** [Ver mi perfil](https://www.upwork.com/freelancers/~01b8ededd5af7e6385)
-- 📧 **Email:** felipealvarezpiriz44@gmail.com
+- 📧 **Email:** info@alvarezsolutions.uy
 - 💬 **LinkedIn:** [Felipe Alvarez Piriz](https://www.linkedin.com/in/felipe-alvarez-piriz-93a893361/)
 - 📍 **Ubicación:** Maldonado, Uruguay
 
